@@ -1,4 +1,5 @@
-   import cellblender as cb
+#!/usr/bin/env python
+import cellblender as cb
    dm = cb.get_data_model()
    mcell = dm['mcell']
    rels = mcell['release_sites']
